@@ -1,0 +1,19 @@
+{
+
+
+
+
+  
+  "name": "pawfinds-a-pet-adoption-system-mern-stack-portfolio-with-admin-panel",
+  "version": "1.0.0",
+  "description": "\"PawFinds\" is a website where you can either give a pet up for adoption or adopt one. If you have a pet you can't care for anymore, you fill out a form. The admin then decides if they can put your pet on PawFinds. If they approve, they'll ask you to bring the pet to an adoption center.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
