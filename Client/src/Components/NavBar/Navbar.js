@@ -25,6 +25,9 @@ const Navbar = (props) => {
           <li>
             <Link to="/contact">Contact Us</Link>
           </li>
+          <li>
+            <Link to="/admin">Admin Login</Link>
+          </li>
         </ul>
       </div>
       <div>

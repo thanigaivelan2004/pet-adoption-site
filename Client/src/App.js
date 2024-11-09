@@ -64,7 +64,13 @@ const App = () => {
         />
         <Route 
           path="/admin" 
-          element={<AdminLogin />} 
+          element={
+            <Layout>
+
+          <AdminLogin />
+          </Layout>
+
+        } 
         />
       </Routes>
     </Router>
